@@ -1,6 +1,6 @@
 # Clean blog by JYM
 
-This repository offers several programs relevant to Pytorch to couduct 2020-2-SKKU-OSS project
+This repository offers several programs relevant to Pytorch Tutorial couducting 2020-2-SKKU-OSS project
 
 ## Preview
 Pytorch Tutorial
