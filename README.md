@@ -1,4 +1,4 @@
-# Clean blog by JYM
+# Pytorch Tutorial by JYM
 
 This repository offers several programs relevant to Pytorch Tutorial couducting 2020-2-SKKU-OSS project
 
