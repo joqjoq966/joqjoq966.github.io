@@ -10,12 +10,13 @@ Pytorch Tutorial
   - Logistic regression
 
 2. Intermediate
-  - <span style="color:red"> Bidirectional recurrent neural network </span>
+  - <span style="color:red">Bidirectional recurrent neural network</span>
   - Convolutional neural network
   - Deep_residual network
   - Language model
   - Recurrent neural network
   
 3. Advanced(Optional)
+
 
 This project is made from https://github.com/yunjey/pytorch-tutorial
