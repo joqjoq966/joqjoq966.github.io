@@ -21,4 +21,4 @@ Pytorch Tutorial
 
 --------------------------------------------------------------------
 My github page : https://joqjoq966.github.io</br>
-This project is made from https://github.com/yunjey/pytorch-tutorial
+This project is origined from https://github.com/yunjey/pytorch-tutorial
