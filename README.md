@@ -20,5 +20,5 @@ Pytorch Tutorial
 ### 3. Advanced(Optional)
 
 --------------------------------------------------------------------
-My github page : https://joqjoq966.github.io
+My github page : https://joqjoq966.github.io</br>
 This project is made from https://github.com/yunjey/pytorch-tutorial
